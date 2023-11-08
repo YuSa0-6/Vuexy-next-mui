@@ -4,11 +4,11 @@ import { VerticalNavItemsType } from 'src/@core/layouts/types'
 const navigation = (): VerticalNavItemsType => {
   return [
         {
-          title: 'Analytics',
+          title: 'ダッシュボード',
           path: '/dashboards/analytics'
         },
         {
-          title: 'Basic',
+          title: '記事',
           path: '/ui/cards/basic'
         },
   ]
