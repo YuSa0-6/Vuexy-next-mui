@@ -1,20 +1,3 @@
-# 概要
-
-Funakuの新Webサイトで掲載予定のMVPを作成する。
-
-- Vuexyのテンプレートから引っ張ってくる。
-- 言語対応する。
-
-# ソースコード
-
-## Githubリポジトリ
-
-https://github.com/YuSa0-6/Vuexy-next-mui
-
-## Zipファイル
-
-[]()
-
 # 使用技術
 
 - TypeScript
